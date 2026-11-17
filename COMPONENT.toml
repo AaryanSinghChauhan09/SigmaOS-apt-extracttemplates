@@ -3,7 +3,7 @@ name = "SigmaOS-apt-extracttemplates"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "apt-extracttemplates component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
